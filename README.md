@@ -1,2 +1,2 @@
 # Calculadora-JS
-Uma calculadora feita em Java Script, com um pouco de CSS3 E HTML5
+A simple calc maked in javaScript and html css
